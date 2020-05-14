@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const prefix = ">";
-const token = 'NzAxMzgyNzM1MjI2NDcwNDMy.XpwsnA.HNO5KWB2ixqZCzkwe9RCmd88m8s'; // IMPORTANT! CHANGE TOO YOUR BOT TOKEN!
+const token = ''; // IMPORTANT! CHANGE TOO YOUR BOT TOKEN!
 const log_channel = '693099703302225921'; // IMPORTANT! CHANGE TOO YOUR LOG CHANNEL ID!
 const ping = require("minecraft-server-util");
 const version = "1.7";
